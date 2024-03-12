@@ -1,8 +1,8 @@
 *** Simple Discord bot for creating voice channels ***
 
-listChannelBeforeDelete - list of channel IDs that are not deleted.
-listCategoryDelete - list of category IDs in which the created channel will be deleted.
-listChannelIdAfter - list of channel identifiers, after switching to which a custom channel will be created for the user.
+listChannelBeforeDelete - list of channel IDs that are not deleted.  
+listCategoryDelete - list of category IDs in which the created channel will be deleted.  
+listChannelIdAfter - list of channel identifiers, after switching to which a custom channel will be created for the user.  
 
 Description:
 First you need to create a category and a voice channel. After that, paste the id of the category and voice channel into the code. 
