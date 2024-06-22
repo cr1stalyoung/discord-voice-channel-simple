@@ -55,7 +55,7 @@ class CreateRoom(commands.Cog):
                 )
                 await voice_channel.set_permissions(member, connect=True, mute_members=True, move_members=True)
                 await member.move_to(voice_channel)
-            elif before.channel.members == [] and before.channel.id not in list_channel:
+            elif len(before.channel.members) == 0 and before.channel.id not in list_channel:
                 if before.channel.category_id in list_category:
                     await before.channel.delete()
         except Exception as error:
