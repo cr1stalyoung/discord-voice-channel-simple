@@ -12,7 +12,7 @@
 
 ## About
 
-A simple code example to automatically create voice channels for your discord server.
+Simple code example to automatically create voice channels for your discord server. **Customization required**
 
 ## Documentation
 
