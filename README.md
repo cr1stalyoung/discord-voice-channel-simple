@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/Version-3.12-red?link=https%3A%2F%2Fpeps.python.org%2Fpep-0693%2F" alt="Version 3.12">
    <img src="https://img.shields.io/badge/Library-Disnake-yellow?link=https%3A%2F%2Fdocs.disnake.dev%2Fen%2Fstable%2F" alt="Library Disnake">
    <img src="https://img.shields.io/badge/License-MIT-purple?link=https%3A%2F%2Fgithub.com%2Fgit%2Fgit-scm.com%2Fblob%2Fmain%2FMIT-LICENSE.txt" alt="License MIT">
+   <img src="https://img.shields.io/badge/Bot-Simple-silver?style=flat-square" alt="Create Room Simple">
 </p>
 
 ## About
