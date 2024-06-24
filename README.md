@@ -25,9 +25,9 @@ Simple code example to automatically create voice channels for your discord serv
 
 ### 3. Usage:
 In [create_room.py](https://github.com/cr1stalyoung/discord-voice-channel-simple/blob/master/cogs/create_room.py) you need to configure list_channel, list_category, channel_settings.
-+ **list_channel**: list of voice channel IDs. When switched to a new voice channel is created and the user is automatically connected to it.
-+ **list_category**: list of category IDs specifies in which categories the voice channel will be automatically deleted if the number of participants is zero.
-+ **channel_settings**: dictionary containing information about the channel to be created. The key is the id of the channel after which the voice channel is created, the values of the key contain the category where the channel is created, the name of the channel and the limit of participants in the voice channel.
++ **`list_channel`**: list of voice channel IDs. When switched to a new voice channel is created and the user is automatically connected to it.
++ **`list_category`**: list of category IDs specifies in which categories the voice channel will be automatically deleted if the number of participants is zero.
++ **`channel_settings`**: dictionary containing information about the channel to be created. The key is the id of the channel after which the voice channel is created, the values of the key contain the category where the channel is created, the name of the channel and the limit of participants in the voice channel.
 
 ## License
 
